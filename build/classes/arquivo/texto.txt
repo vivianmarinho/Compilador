@@ -1,0 +1,24 @@
+inicio
+
+int nota1;
+int navio;
+
+
+int resultado =0;
+
+
+
+escreva (nota1);
+
+escreva (navio);
+
+enquanto(navio>nota1){
+
+    navio= navio + nota1;
+    
+}
+
+leia (nota1);
+
+fim
+
